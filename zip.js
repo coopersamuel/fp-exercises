@@ -1,0 +1,3 @@
+const zip = (...arrs) => {
+    
+};
