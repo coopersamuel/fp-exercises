@@ -17,4 +17,4 @@ const transpose = (matrix) => {
     });
 };
 
-module.exports = transpose;
+export default transpose;

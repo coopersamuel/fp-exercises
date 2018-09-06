@@ -5,7 +5,7 @@ A collection of functional programming utilities.
 ## Usage
 
 ```
-const func = require('./func.js');
+import func from './func';
 func(arg);
 ```
 

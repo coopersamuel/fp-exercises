@@ -10,4 +10,4 @@ const zip = (...rows) => {
     });
 };
 
-module.exports = zip;
+export default zip;

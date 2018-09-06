@@ -6,4 +6,4 @@ const sub = (...args) => {
     return args.reduce((difference, value) => difference - value);
 };
 
-module.exports = sub;
+export default sub;

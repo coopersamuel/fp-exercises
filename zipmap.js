@@ -1,6 +1,3 @@
-const keys = [ 'first', 'second', 'third' ];
-const values = [ 1, 2, 3 ];
-
 const zipmap = (keysArray, valuesArray) => {
     // Zipmap takes an two sequences, or arrays
     // and zips them into a single object
@@ -16,4 +13,4 @@ const zipmap = (keysArray, valuesArray) => {
     return zipped;
 };
 
-console.log(zipmap(keys, values));
+export default zipmap;
