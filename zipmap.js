@@ -13,4 +13,4 @@ const zipmap = (keysArray, valuesArray) => {
     return zipped;
 };
 
-export default zipmap;
+module.exports = zipmap;
